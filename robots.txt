@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usabandit33.github.io/trace-or-layout/sitemap.xml
