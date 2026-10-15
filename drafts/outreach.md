@@ -1,10 +1,16 @@
-# Trace Or Layout outreach
+# Outreach — Trace Or Layout (Denver)
 
-Pages gate: no email until https://usabandit33.github.io/trace-or-layout/ returns HTTP 200.
+Gate: Pages HTTP 200 confirmed 2026-10-15.
+From: kaelnventures@gmail.com · Matt M.
+Phone + domain in every email. No money in T1–T4.
 
-Sequence: T1 day 0 after Pages 200; T2 day 3–4; T3 day 7–10; T4 day 13–14.
-From kaelnventures@gmail.com, signature Matt M. Phone + domain in every email. No money in T1–T4.
+Visible live URL text: https://trace-or-layout/
+Href: https://usabandit33.github.io/trace-or-layout/
 
-## Status
-- 2026-10-04: shipped. Pages not enabled. No T1.
-- Inboxes: none printed next to the phone on the pages checked this run.
+| Company | Phone | Domain | Email | T1 | T2 | T3 | T4 |
+|---------|-------|--------|-------|----|----|----|----|
+| 1-800-STRIPER (Denver) | (720) 549-2853 / (800) 787-4737 | 1800striper.com | info@1800striper.com | not sent | | | |
+
+Borderline franchise (operator approved 2026-10-15). Pure local independents still form-only or Cloudflare-protected.
+
+T1 ready when operator says send.
